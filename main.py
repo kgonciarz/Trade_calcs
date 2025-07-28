@@ -8,7 +8,7 @@ st.title("Cocoa Trading Sheet Automation")
 st.write("Automate cocoa trading processes and calculations from the Excel sheet.")
 
 # Define the file path and relevant sheet names
-FILE_PATH = "C:\Users\Klaudia Gonciarz\Downloads\Cocoa Trading Sheet.xlsx"
+FILE_PATH = r"C:\Users\Klaudia Gonciarz\Downloads\Cocoa Trading Sheet.xlsx"
 SHEET_NAME_BEANS = "Costing Beans"
 SHEET_NAME_PRODUCTS = "Costing Products"
 SHEET_NAME_FREIGHT = "Freight & Dressing"
